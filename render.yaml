@@ -24,3 +24,5 @@ databases:
 - name: django-quick-start
   databaseName: django
   user: django
+  plan: free
+
